@@ -39,7 +39,7 @@ namespace Day1
         /// The first one is an exception. If there are not enough
         /// numbers left to make a sum of 3, the method ends without considering those.
         /// </summary>
-        /// <returns>Amount of sums of 3 than are bigger than the previous sum of 3</returns>
+        /// <returns>Amount of sums of 3 that are bigger than the previous sum of 3</returns>
         public static int BiggerThanPreviousCount2()
         {
             int count = 0;
