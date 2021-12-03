@@ -8,7 +8,7 @@ namespace Day1
     {
         /// <summary>
         /// This is the first challenge of Day 1.
-        /// The methods reads data from the file input.txt, 
+        /// The method reads data from the file input.txt, 
         /// where each line has a number and determines how
         /// many of these numbers have a value bigger than the previous.
         /// The first one is an exception.
@@ -32,7 +32,7 @@ namespace Day1
 
         /// <summary>
         /// This is the second challenge of Day 1.
-        /// The methods reads data from the file input.txt, 
+        /// The method reads data from the file input.txt, 
         /// where each line has a number. This time
         /// each number is summed with two others than come after it.
         /// This sum of 3 is compared to the previous.
