@@ -4,6 +4,7 @@ using System.IO;
 
 namespace Day3
 {
+    //https://adventofcode.com/2021/day/3
     //The input data is contained in a .txt file
     class Program
     {
